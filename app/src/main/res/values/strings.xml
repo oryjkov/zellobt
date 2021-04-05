@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZelloBTActivator</string>
+    <string name="accessibility_service_label">Zello BT activator</string>
+    <string name="accessibility_service_description">Use a BT shutter button with Zello</string>
+</resources>
